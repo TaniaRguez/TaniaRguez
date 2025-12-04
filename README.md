@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:FFD700&height=120&section=header"/>
-
 ### 👋 Hi, I'm Tania
 **Software Engineering Student | Tech Instructor | Martial Arts Practitioner | Creator of @shesacoder**
 
